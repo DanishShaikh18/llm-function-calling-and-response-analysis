@@ -1,3 +1,4 @@
 .env
 policy.txt
 __pycache__/
+venv/
